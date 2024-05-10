@@ -12,8 +12,6 @@
   </a> 】
 </p>
 
-<a href="https://trendshift.io/repositories/3709" target="_blank"><img src="https://trendshift.io/api/badge/repositories/3709" alt="ByteByteGoHq%2Fsystem-design-101 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
 # 系统设计 101（System Design 101）
 
 使用可视化和简单术语来解释复杂系统。
